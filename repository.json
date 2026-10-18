@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "6e25df50-638e-4109-a50b-03c14fc93fdd",
+    "name": "Titlovi.com",
+    "description": "PRIVATE TEST CATALOGUE: migration preview, not an official Titlovi.com release.",
+    "overview": "Jellyfin 12 migration test of the Titlovi.com unified plugin.",
+    "owner": "mihvel (temporary testing)",
+    "category": "Subtitles",
+    "versions": [
+      {
+        "version": "1.99.0.0",
+        "changelog": "TEST ONLY: verify update from original 1.2.5.0; no official release.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/mihvel/titlovi-jellyfin-test/main/titlovi-com_1.99.0.0.zip",
+        "checksum": "f14d0eca22b2f08034916752768d1b82",
+        "timestamp": "2026-10-15T13:24:41Z"
+      }
+    ]
+  }
+]
